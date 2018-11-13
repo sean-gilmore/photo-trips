@@ -1,24 +1,5 @@
-# README
+# PHOTO TRIPS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Photo trips is a web app that allows you to upload a group of images and using the meta data of the photos, will automatically produce a plotted out google map with your trip rendered on it, along with all the photos you have taken.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Allows you to edit any of the details of the photos + add new ones, add descriptions to what you saw / what you were doing at the time.
