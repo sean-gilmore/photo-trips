@@ -11,7 +11,7 @@ default: &default
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: photo_trips_user
   host: localhost
-  password: AR3Y4Ubg^PPsdWBWfBU6@f
+  password: <%= Rails.application.credentials.development_database_password %>
 
 development:
   <<: *default
