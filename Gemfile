@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Custom Gems
+gem 'devise', '~> 4.5'
 gem 'mysql2', '~> 0.5.2'
 
 # Reduces boot times through caching; required in config/boot.rb
